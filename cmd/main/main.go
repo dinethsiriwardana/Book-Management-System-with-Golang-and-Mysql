@@ -13,5 +13,4 @@ func main() {
 	routes.RegisterBookStoreRouters(r)
 	http.Handle("/", r)
 	log.Fatal(http.ListenAndServe("localhost:9090", r))
-
 }
