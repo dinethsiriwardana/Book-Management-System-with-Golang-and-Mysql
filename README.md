@@ -19,7 +19,7 @@ To install and run this application, follow these steps:
 
 1.  Clone this repository to your local machine. <br>
     ```
-    https://github.com/dinethsiriwardana/Book-Management-System-with-Golang-and-Mysql
+    https://github.com/dinethsiriwardana/Book-Management-System-with-Golang-and-Mysql.git
     ```
 2.  Install MySQL and make sure it is running on your machine.
 3.  Create a new database named `bookstore`.
@@ -44,6 +44,26 @@ Once the application is running, you can perform CRUD operations on books by sen
 
 
 You can use tools like Postman or cURL to send HTTP requests to the endpoints.
+
+## File Structure
+
+```
+book-management-system/
+├── cmd/
+│   └── main/
+│       └── main.go
+└── pkg/
+    ├── config/
+    │   └── app.go
+    ├── models/
+    │   └── book.go
+    ├── controllers/
+    │   └── book-controller.go
+    ├── routes/
+    │   └── bookstore-routes.go
+    └── utils/
+        └── utils.go
+```
 
 ## Contributors
 
