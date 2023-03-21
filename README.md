@@ -3,7 +3,7 @@
 This is a Book Management System based on a tutorial by `freeCodeCamp.org`, implemented with Golang and MySQL. This application allows users to manage books by providing CRUD (Create, Read, Update, Delete) operations through a RESTful API.
 
 
-[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/91774218/226343585-b8ac5425-d720-4a7b-9888-64b713980296.jpg)](https://youtu.be/jFfo23yIWac?t=1235)
+[![IMAGE ALT TEXT HERE](https://user-images.githubusercontent.com/91774218/226343585-b8ac5425-d720-4a7b-9888-64b713980296.jpg)](https://youtu.be/jFfo23yIWac?t=4040)
 
 ## Features
 
